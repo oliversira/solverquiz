@@ -1,0 +1,12 @@
+Otazka 1
+a) Odpoved A
+b) Odpoved B
+c) Odpoved C
+d) Odpoved D
+A
+Otazka 2
+a) Odpoved A
+b) Odpoved B
+c) Odpoved C
+d) Odpoved D
+B

@@ -1,0 +1,90 @@
+Aky je vyznam skratky "MP3" vo svete zvukoveho zaznamu?
+a) Music Playing 3
+b) Mega Power 3
+c) Moving Picture 3
+d) MPEG Audio Layer 3
+Spravna odpoved: d
+
+Co znamena skratka "DAC" v kontexte audio technologii?
+a) Digital Audio Converter
+b) Dynamic Audio Control
+c) Dual Audio Channel
+d) Data Access Chip
+Spravna odpoved: a
+
+Ake zariadenie je typickym prikladom vstupneho zariadenia pre nahranie zvuku?
+a) Reproduktor
+b) Mikrofon
+c) Sluchadla
+d) Zosilnovac
+Spravna odpoved: b
+
+Aka je hlavna funkcia zosilnovaca v zvukovom systeme?
+a) Konvertovat digitalny zvuk na analogovy
+b) Zvysovat hlasitost zvuku
+c) Filtracia neziaducich zvukovych frekvencii
+d) Kompresia zvukovych suborov
+Spravna odpoved: b
+
+Co znamena pojem "bitrate" pri digitalnom zazname zvuku?
+a) Hlasitost zvuku
+b) Kvalita zvuku
+c) Pocet bitov prenasanych za sekundu
+d) Frekvencia zvuku
+Spravna odpoved: c
+
+Ktory z formatov suborov je beznymi pouzivany pre ukladanie hudobnych skladieb?
+a) TXT
+b) PDF
+c) MP3
+d) JPEG
+Spravna odpoved: c
+
+Aky druh konektoru sa casto pouziva pre pripojenie sluchadiel k pocitacu?
+a) USB
+b) HDMI
+c) RCA
+d) Jack (3,5 mm)
+Spravna odpoved: d
+
+Co znamena skratka "EQ" v audio svete?
+a) Equalizer
+b) Echo Quality
+c) Electric Quartz
+d) Energy Quotient
+Spravna odpoved: a
+
+Aky parameter urcuje rozsah frekvencii, ktore reproduktor dokaze prehrat?
+a) Wattage
+b) Bitrate
+c) Frequency Range
+d) Decibel Level
+Spravna odpoved: c
+
+Ktory typ mikrofonu sa casto pouziva na nahranie hlasu pri pocitacovych hovoroch?
+a) Dynamicky
+b) Kondenzatorovy
+c) USB mikrofon
+d) Lavalier
+Spravna odpoved: c
+
+Co znamena skratka "ASIO" v oblasti zvukovej technologie?
+a) Audio System Input/Output
+b) Advanced Sound Input/Output
+c) Asynchronous Sound Interface Operation
+d) Analog Signal Input/Output
+Spravna odpoved: a
+
+Aka je funkcia "panning" pri mixovani zvuku?
+a) Zmena hlasitosti
+b) Presun zvuku medzi reproduktormi
+c) Zmenu frekvencie zvuku
+d) Aplikovanie efektov
+Spravna odpoved: b
+
+Ktory typ sluchadiel je najlepsi pre izolaciu od okoliteho hluku?
+a) On-ear
+b) In-ear
+c) Over-ear
+d) Noise-cancelling
+Spravna odpoved: d

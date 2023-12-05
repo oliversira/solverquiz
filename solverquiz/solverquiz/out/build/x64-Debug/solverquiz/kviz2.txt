@@ -1,0 +1,69 @@
+Co je to syntax?
+a) Rychlost kodu
+b) Styl pisania kodu
+c) Velkost pameti
+d) Pocet riadkov kodu
+Spravna odpoved: b
+
+Na co sluzia premenne v kode?
+a) K zrychleniu kodu
+b) K ukladaniu a manipulacii dat
+c) K vytvoreniu grafickeho rozhrania
+d) K vytvoreniu web stranky
+Spravna odpoved: b
+
+Co znamena termin 'podmieneny vyraz' v programovani?
+a) Vyraz, ktory je zavisly na urcitej podmienke
+b) Vyraz, ktore nieje pravdivy
+c) Vyraz, ktory nema definovany vysledok
+d) Vyraz, ktory sa vzdy vyhodnoti ako pravdivy
+Spravna odpoved: a
+
+Aky datovy typ sa obvykle pouziva na cele cisla v programovani?
+a) Float
+b) String
+c) Integer
+d) Boolean
+Spravna odpoved: c
+
+K comu sluzi cyklus 'for' v programovani?
+a) K nacitaniu dat zo suboru
+b) K opakovaniu kodu
+c) K vytvaraniu funkcii
+d) K porovnavaniu podmienok
+Spravna odpoved: b
+
+Ktory z nasledujucich neni programovaci jazyk?
+a) Python
+b) HTML
+c) Java
+d) SQL
+Spravna odpoved: b
+
+Akym sposobom sa obvykle oznacuje komentar v programovacom jazyku?
+a) // Toto je komentar
+b) ** Toto je komentar **
+c) /* Toto je komentar */
+d) " Toto je komentar "
+Spravna odpoved: a
+
+Co oznacuje termin "debugging" v programovani?
+a) Proces vytvarania uzivatelskeho rozhrania
+b) Oprava chyb v kode
+c) Vytvararanie testovacich dat
+d) Kompilacia programu do spustitelneho suboru
+Spravna odpoved: b
+
+Aky je zakladny ucel pouzitia funkcie ?
+a) Ulozenie dat do suboru
+b) Vytvorenie grafickeho uzivatelskeho rozhrania
+c) Zjednodusenie a opakovanie kodu
+d) Riadenie vstupu a vystupu
+Spravna odpoved: c
+
+K comu sluzi funkcia "printf" v jazyku C?
+a) K nacitaniu dat zo suboru
+b) K formatovanemu vypisu na konzoli
+c) K deklaracii premennych
+d) K vytvoreniu novych funkci do programu
+Spravna odpoved: b

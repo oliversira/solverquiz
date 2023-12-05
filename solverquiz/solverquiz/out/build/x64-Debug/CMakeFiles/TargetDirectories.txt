@@ -1,0 +1,5 @@
+C:/Users/STAR WARS/Documents/Programko VUT/solverquiz/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/STAR WARS/Documents/Programko VUT/solverquiz/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/STAR WARS/Documents/Programko VUT/solverquiz/out/build/x64-Debug/solverquiz/CMakeFiles/solverquiz.dir
+C:/Users/STAR WARS/Documents/Programko VUT/solverquiz/out/build/x64-Debug/solverquiz/CMakeFiles/edit_cache.dir
+C:/Users/STAR WARS/Documents/Programko VUT/solverquiz/out/build/x64-Debug/solverquiz/CMakeFiles/rebuild_cache.dir
